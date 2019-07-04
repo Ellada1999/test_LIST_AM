@@ -1,0 +1,57 @@
+{
+  "uid" : "e53f26ff877f339a",
+  "name" : "should not arrow login with invalid username",
+  "fullName" : "Login form.should not arrow login with invalid username",
+  "historyId" : "2f6484fbd1562296d820b05515887bb7",
+  "time" : {
+    "start" : 1561728602564,
+    "stop" : 1561728603689,
+    "duration" : 1125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Login form"
+  }, {
+    "name" : "testClass",
+    "value" : "Login form"
+  }, {
+    "name" : "testMethod",
+    "value" : "should not arrow login with invalid username"
+  }, {
+    "name" : "package",
+    "value" : "Login form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e53f26ff877f339a.json",
+  "parameterValues" : [ "chrome" ]
+}

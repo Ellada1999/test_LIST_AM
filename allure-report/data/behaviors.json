@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "should not arrow login with invalid username",
+    "uid" : "e53f26ff877f339a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1561728602564,
+      "stop" : 1561728603689,
+      "duration" : 1125
+    },
+    "flaky" : false,
+    "parameters" : [ "chrome" ]
+  } ],
+  "name" : "behaviors"
+}

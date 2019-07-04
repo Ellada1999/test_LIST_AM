@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 28 17:30:02 AMT 2019","Fri Jun 28 17:30:03 AMT 2019","1125","","Login form","","Login form","should not arrow login with invalid username","should not arrow login with invalid username",""

@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e53f26ff877f339a",
+  "name" : "should not arrow login with invalid username",
+  "time" : {
+    "start" : 1561728602564,
+    "stop" : 1561728603689,
+    "duration" : 1125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
